@@ -1,7 +1,9 @@
 # Curadoria de comunidades sobre programação desenvolvimento web e relacionados
 
+
 ## GitHub
 
+ - [Comunidade PHP Manaus](https://github.com/PHP-Manaus)
  - [Centro de Treinamento](https://github.com/training-center) - Um projeto sem fins lucrativos com intenção de ajudar quem precisa aprender alguma tecnologia, tem dúvidas sobre carreira ou quer fazer bons amigos para criarem um projeto juntos!
  - [PHP com Rapadura](https://github.com/phpcomrapadura)
 
@@ -40,6 +42,9 @@
  - [PHP com Rapadura](https://fb.com/groups/RapaduraDoPoder)
  - [Vue.js Brasil](https://www.facebook.com/groups/vuejsbr/)
 
+## Discord
+ - [Comunidade PHP Manaus](https://discord.gg/3PtBH3YTsb)
+   
 ## Slack
 
  - [ABC Dev](http://slackabcdev.herokuapp.com/)
